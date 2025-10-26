@@ -225,7 +225,7 @@ public class AplikasiPerhitunganHari extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void btnHitungActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_btnHitungActionPerformed
-        // TODO add your handling code here:
+
           try {
         // Ambil data dari combo box dan spinner
         int bulanIndex = comboBulan.getSelectedIndex() + 1;
